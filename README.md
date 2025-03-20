@@ -1,8 +1,8 @@
 # Minigolf
 
 ## Giới thiệu
--**Tutorial**: [Link youtube](https://www.youtube.com/watch?v=iEn0ozP-jxc) [Link code](https://github.com/PolyMarsDev/Twini-Golf)
--Minigolf là một trò chơi mô phỏng môn thể thao golf, được phát triển bằng ngôn ngữ C++ và sử dụng thư viện SDL2.
+- **Tutorial**: [Link youtube](https://www.youtube.com/watch?v=iEn0ozP-jxc) [Link code](https://github.com/PolyMarsDev/Twini-Golf)
+- Minigolf là một trò chơi mô phỏng môn thể thao golf, được phát triển bằng ngôn ngữ C++ và sử dụng thư viện SDL2.
 
 ## Hướng dẫn cài đặt
 1. Mở Code::Blocks.
